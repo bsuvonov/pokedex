@@ -8,7 +8,7 @@ Run commands below to download the project:
 $ git clone https://github.com/bsuvonov/pokedex
 $ cd pokedex
 ```
-Make sure to install [go](https://go.dev/). Then you can build the project or run it manually using `go run .`.
+Make sure to install [Go](https://go.dev/). Then you can build the project or run it manually using `go run .`.
 How to build the project:
 ```bash
 $ go build
