@@ -15,7 +15,7 @@ $ go build
 $ ./pokedex
 ```
 ## How to Play The Game
-After the game is running, you can use `help` command to view the list of available command. There are a few commands:
+Here is the list of commands:
 
 | Command                   | Description                                       |
 | ------------------------- | --------------------------------------------------|
