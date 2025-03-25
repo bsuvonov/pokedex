@@ -1,6 +1,6 @@
 # Pokedex
 ## Description
-A pokedex simulation CLI app. This project uses is mainly a Go practice with APIs, and uses [PokéAPI](https://pokeapi.co/).
+A pokedex simulation CLI app. This project is mainly a Go practice with APIs, and uses [PokéAPI](https://pokeapi.co/).
 
 ## How to Use This Project
 Run commands below to download the project:
